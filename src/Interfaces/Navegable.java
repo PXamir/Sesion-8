@@ -9,5 +9,5 @@ package Interfaces;
  * @author Estudiante
  */
 public interface Navegable {
-    
+    public void navegar();
 }

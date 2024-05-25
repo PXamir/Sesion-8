@@ -9,5 +9,5 @@ package Interfaces;
  * @author Estudiante
  */
 public interface Reproducible {
-    
+    public void reproducir();
 }
